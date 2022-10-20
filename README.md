@@ -1,0 +1,1 @@
+This repo is for the JavaScript - Week 1 Assignment
